@@ -16,6 +16,7 @@
 PRODUCT_COPY_FILES := \
     vendor/samsung/galaxys2/proprietary/ril/lib/libril.so:obj/lib/libril.so \
     vendor/samsung/galaxys2/proprietary/ril/lib/libsecril-client.so:obj/lib/libsecril-client.so \
+    vendor/samsung/galaxys2/proprietary/ril/lib/libsecril-client-sap.so:obj/lib/libsecril-client-sap.so \
     vendor/samsung/galaxys2/proprietary/audio/lib/libmediayamahaservice.so:obj/lib/libmediayamahaservice.so
 
 # RIL
